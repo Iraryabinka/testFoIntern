@@ -1,0 +1,23 @@
+{
+  "name": "testfointern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node testFoIntern/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iraryabinka/testFoIntern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iraryabinka/testFoIntern/issues"
+  },
+  "homepage": "https://github.com/Iraryabinka/testFoIntern#readme",
+  "dependencies": {
+    "shortid": "^2.2.14"
+  }
+}
